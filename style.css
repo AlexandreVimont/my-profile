@@ -1,0 +1,51 @@
+body {
+	background: rgb( 235, 235, 235, 1.0);
+	font-size: 16px ;
+}
+a {
+	text-decoration: none ;
+	color: darkviolet;
+}
+a:hover {
+	color: darkgoldenrod;
+}
+h2 {
+	font-family: cursive;
+}
+h1 {
+color: darkblue ;
+font-size: 40px;
+}
+h2 {
+	color: midnightblue;
+	font-weight: 900;
+}
+p {
+	color: black;
+}
+.text-golden {
+	color: goldenrod;
+}
+.text-blue {
+	color: midnightblue;
+}
+.text-darkgolden {
+	color: darkgoldenrod;
+}
+.text-grey {
+	color: silver;
+}
+.img-circle {
+	border-radius: 20%;
+}
+.list-inline {
+	list-style: none;
+	padding-left: 0;
+}
+.list-inline li {
+	display: inline;
+	padding: 25px;
+}
+.list-inline i {
+	font-size: 70px;
+}
